@@ -1,0 +1,22 @@
+.left-content-panel{
+    border:2px solid crimson;
+}
+
+.right-sidebar{
+    border:2px solid black;
+}
+
+
+.article-head-img img{
+    height : 125px;
+    width :220px;
+}
+
+.article-summary{
+    margin-left :35px;
+
+}
+.article-box{
+    margin-bottom: 20px;
+}
+
